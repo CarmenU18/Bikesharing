@@ -30,7 +30,7 @@ Now that we know the distribution and behavior of customers, it is necessary to 
 
 - As it is clear in the following graph, the hours with the highest influx of people are from 8 - 9 AM and 4 - 7 PM.
 
-![img](https://github.com/CarmenU18/Bikesharing/blob/main/Images/Peak%Hours.PNG)
+![img](https://github.com/CarmenU18/Bikesharing/blob/main/Images/Peak%20Hours.PNG)
 
 The question now would be, what day of the week do we have the greatest influx of people?
 
